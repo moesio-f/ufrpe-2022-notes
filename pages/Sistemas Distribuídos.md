@@ -1,0 +1,20 @@
+- Informações
+	- Sala: Laboratório 37
+	- Classroom: wfmxg3x
+	- Avaliação:
+		- 1ªVA: Exercícios (30%) + Prova (70%)
+		- 2ªVA: Acompanhamento Projeto (30%) + Projeto (70%)
+		- 3ªVA: Prova (40%) + Projeto (60%)
+- Projeto
+	- Máximo 3 estudantes
+	- Entrega: 04/04/2023
+	- Controle de versão, histórico de commits no GitHub (ou equivalente)
+	- Cada membro deve implementar, no mínimo, 2 módulos da aplicação
+	- Todos os módulos devem ser distribuídos (i.e., processos distintos)
+	- Uso de ao menos 2 linguagens de programação distintas
+	- Interface gráfica para interação com o usuário
+	- No dia da entrega...
+		- Link para o repositório com versão mais recente
+		- Apresentação do sistema e funcionamento do código fonte
+	- Extra
+		- 1 ponto para mecanismos de segurança, ou monitoramento

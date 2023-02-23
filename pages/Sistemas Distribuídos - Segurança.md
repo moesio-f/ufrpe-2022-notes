@@ -1,0 +1,19 @@
+- O principal objetivo da segurança é restringir acesso a informação/recurso justamente para aqueles que tem a autorização necessária.
+- **Ameaças de Segurança**
+	- **Vazamento**: aquisição de informação por pessoas não autorizadas
+	- **Adulteração**: alteração não autorizada de informação
+	- **Vandalismo**: interferência na utilização de um sistema sem nenhum ganho específico
+- Ataques em SD podem ser caracterizados como:
+	- **Espionagem**: obtenção de cópias de mensagem sem autorização
+	- **Mascaramento**: envio/recepção se passando por uma entidade autorizada
+	- **Adulteração de Mensagem**: intercepção e alteração da mensagem antes de repassar ao devido receptor
+	- **Repetição (replaying)**: armazenar mensagens interceptadas e as enviar em um momento posterior
+	- **Negação de serviço (denial of service)**: sobrecarregar um canal/recurso com mensagens para dificultar o acesso de outros
+- **Mecanismos de Segurança**:
+	- **Criptografia**: encriptação da mensagem.
+		- Duas classes principais de algoritmos
+			- Chaves secretas compartilhadas (Criptografia Simétrica/Convencional)
+			- Pares de Chaves (Criptografia Assimétrica/Moderna)
+	- **Certificados**: autenticidade através de certificação.
+	- **Controle de Acesso**: determina o direito de acesso para cada usuário de sistema.
+	- **Firewall**: protege de ataques externos, visto que os canais de comunicação podem não ser seguros. Intercepta mensagens que chegam e saem.
